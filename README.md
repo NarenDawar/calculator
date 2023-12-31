@@ -1,0 +1,1 @@
+This is a project that aims to build a calculator that is fully functional.
