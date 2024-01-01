@@ -22,6 +22,10 @@
     margin-right: 5px;
     margin-left: 5px;
     margin-top: 12px;
+    justify-content: right;
+    font-size: 25px;
+    padding-right: 5px;
+    align-items: flex-end;
 }
 /*------------------------------------------------*/
 .midsection {
@@ -51,4 +55,8 @@
     margin-top: 5px;
     border-radius: 7px;
     margin-bottom: 5px;
+}
+
+.button:hover {
+    background-color: gray;
 }
